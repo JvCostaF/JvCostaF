@@ -1,4 +1,4 @@
-## Hi! I'm João Victor
+## Hi! I'm João Víctor da Costa Farias
 
 <div>
   Graduating in Computer Science at the Federal University of Rio de Janeiro(UFRJ).
