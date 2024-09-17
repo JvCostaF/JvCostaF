@@ -1,7 +1,7 @@
 ## Hi! I'm João Víctor da Costa Farias
 
 <div>
-  Graduating in Computer Science at the Federal University of Rio de Janeiro(UFRJ).
+  Graduating in Computer Science at the Federal University of Rio de Janeiro (UFRJ).
   I found it in technology the possibility of helping people solve problems or
   facilitate solutions. Currently I'm working as a software development intern at Bocom BBM.
   Since the beginning of my degree, I have sought to improve myself in the field.
