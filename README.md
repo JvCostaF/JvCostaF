@@ -3,10 +3,8 @@
 <div>
   Graduating in Computer Science at the Federal University of Rio de Janeiro (UFRJ).
   I found it in technology the possibility of helping people solve problems or
-  facilitate solutions. Currently I'm working as a software development intern at Bocom BBM.
-  Since the beginning of my degree, I have sought to improve myself in the field.
-  dedicating myself to internship hours, as well as through courses
-  extracurriculars.
+  facilitate solutions. Since the beginning of my degree, I have sought to improve myself in the field.
+  dedicating myself to internship hours, as well as through courses extracurriculars.
 </div>
 
   ##
